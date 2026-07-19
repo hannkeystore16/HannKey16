@@ -1,0 +1,120 @@
+[
+  {
+    "slug": "why-choose-hannkey16",
+    "title": "Why Choose HANNKEY16 for Your Next Website",
+    "excerpt": "What sets HANNKEY16 apart as a digital agency: a look at how we combine design, engineering, and AI to build websites that actually grow businesses.",
+    "category": "Agency",
+    "tags": ["hannkey16", "digital agency", "web development"],
+    "featuredImage": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImageAlt": "Team collaborating around a laptop reviewing a website design",
+    "author": "HANNKEY16 Team",
+    "publishedAt": "2026-05-04",
+    "content": [
+      { "type": "p", "text": "Choosing a digital agency is one of the highest-leverage decisions a growing business makes. The right partner does not just ship a website — they build a platform that compounds in value every month it's live. This is the standard HANNKEY16 holds itself to on every engagement." },
+      { "type": "h2", "text": "Design and engineering under one roof" },
+      { "type": "p", "text": "Many agencies split design and development across separate teams, and the handoff is where quality gets lost. At HANNKEY16, the same team that designs your interface also ships the code, which means every animation, spacing decision, and interaction survives all the way to production." },
+      { "type": "h2", "text": "Performance is a feature, not an afterthought" },
+      { "type": "p", "text": "A beautiful site that loads slowly loses visitors before they see it. We treat Core Web Vitals, image optimization, and clean code as part of the design brief from day one, not a cleanup pass at the end." },
+      { "type": "h2", "text": "AI-powered by default" },
+      { "type": "p", "text": "From intelligent chat assistants to automated content workflows, HANNKEY16 builds AI into the sites we ship so our clients' businesses feel modern from the very first visitor." },
+      { "type": "h2", "text": "A long-term partner, not a one-off vendor" },
+      { "type": "p", "text": "Our process includes ongoing support and maintenance because a website is never really \"done\" — it should keep improving alongside your business. That is the HANNKEY16 difference." }
+    ]
+  },
+  {
+    "slug": "best-website-development-services",
+    "title": "Best Website Development Services for Growing Businesses",
+    "excerpt": "A practical breakdown of the website development services that actually move the needle for growing businesses — and how to tell a good agency from a mediocre one.",
+    "category": "Services",
+    "tags": ["website development", "web application development", "digital agency"],
+    "featuredImage": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
+    "featuredImageAlt": "Developer writing code on a laptop with multiple monitors showing a website",
+    "author": "HANNKEY16 Team",
+    "publishedAt": "2026-05-18",
+    "content": [
+      { "type": "p", "text": "Not all \"website development services\" are created equal. Some agencies deliver a template with your logo on it; others engineer a genuine growth asset. Here is what to look for." },
+      { "type": "h2", "text": "1. Custom-tailored websites" },
+      { "type": "p", "text": "A custom site built around your specific goals will always outperform a generic template, both in conversion rate and in how credible your brand looks to visitors." },
+      { "type": "h2", "text": "2. High-converting landing pages" },
+      { "type": "p", "text": "For campaigns and lead generation, a dedicated landing page focused on one action consistently converts better than sending traffic to a general homepage." },
+      { "type": "h2", "text": "3. Scalable web applications" },
+      { "type": "p", "text": "When your business needs more than a brochure site — dashboards, portals, booking systems — you need a team that can engineer a real web application, not just a page." },
+      { "type": "h2", "text": "4. E-commerce that converts" },
+      { "type": "p", "text": "Online stores need speed, trust signals, and a frictionless checkout. This is where good UI/UX design and solid engineering meet." },
+      { "type": "h2", "text": "How HANNKEY16 delivers" },
+      { "type": "p", "text": "HANNKEY16 offers professional web development, business landing pages, company profiles, e-commerce, and custom web applications — all built on the same foundation of speed, security, and SEO best practices." }
+    ]
+  },
+  {
+    "slug": "ai-solutions-for-businesses",
+    "title": "AI Solutions for Businesses: Where to Start",
+    "excerpt": "AI integration doesn't have to mean a massive overhaul. Here's how businesses can start using AI in practical, high-impact ways on their websites.",
+    "category": "AI",
+    "tags": ["AI development", "hannkey16", "automation"],
+    "featuredImage": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
+    "featuredImageAlt": "Abstract visualization of an AI network with glowing nodes",
+    "author": "HANNKEY16 Team",
+    "publishedAt": "2026-06-02",
+    "content": [
+      { "type": "p", "text": "\"AI integration\" sounds big, but the most effective implementations usually start small and specific. Here are the entry points that give businesses the fastest return." },
+      { "type": "h2", "text": "AI chat assistants" },
+      { "type": "p", "text": "A well-tuned chat widget can answer visitor questions instantly, qualify leads, and reduce the load on your sales team — exactly what HANNKEY16 builds into client sites." },
+      { "type": "h2", "text": "Automated content workflows" },
+      { "type": "p", "text": "AI can help draft first versions of product descriptions, blog outlines, and support responses, freeing your team to focus on strategy and review rather than blank pages." },
+      { "type": "h2", "text": "Smart recommendations" },
+      { "type": "p", "text": "For e-commerce and content sites, AI-driven recommendations keep visitors engaged longer and increase the odds they find what convinces them to convert." },
+      { "type": "h2", "text": "Starting the right way" },
+      { "type": "p", "text": "The businesses that get the most from AI treat it as an extension of an already-solid website — fast, well-structured, and easy to navigate. That's the foundation HANNKEY16 builds first." }
+    ]
+  },
+  {
+    "slug": "seo-guide-for-beginners",
+    "title": "SEO Guide for Beginners: The Fundamentals That Actually Matter",
+    "excerpt": "Cut through the noise: the core SEO fundamentals every business owner should understand before hiring anyone or touching their website's code.",
+    "category": "SEO",
+    "tags": ["SEO services", "SEO Guide", "hannkey16"],
+    "featuredImage": "https://images.unsplash.com/photo-1571677246347-5040036b95cc?auto=format&fit=crop&w=1200&q=80",
+    "featuredImageAlt": "Magnifying glass over a graph representing search analytics",
+    "author": "HANNKEY16 Team",
+    "publishedAt": "2026-06-16",
+    "content": [
+      { "type": "p", "text": "SEO can feel overwhelming, but almost everything that matters comes down to a handful of fundamentals. Get these right and you're ahead of most of the competition." },
+      { "type": "h2", "text": "1. Technical SEO" },
+      { "type": "p", "text": "Search engines need to crawl and understand your site: fast load times, a valid sitemap.xml, a correct robots.txt, and clean, semantic HTML all matter more than people expect." },
+      { "type": "h2", "text": "2. On-page SEO" },
+      { "type": "p", "text": "Every page needs a unique, descriptive title, a clear meta description, one H1, and a logical heading structure — the basics that tell both users and search engines what the page is about." },
+      { "type": "h2", "text": "3. Structured data" },
+      { "type": "p", "text": "Schema.org markup (Organization, WebSite, Article, and more) helps search engines display richer results, like sitelinks search boxes and breadcrumb trails." },
+      { "type": "h2", "text": "4. Content that answers real questions" },
+      { "type": "p", "text": "The sites that rank consistently are the ones that genuinely answer what people are searching for — not the ones that repeat keywords the most." },
+      { "type": "h2", "text": "5. Mobile and performance" },
+      { "type": "p", "text": "With most searches happening on mobile, a fast, responsive site isn't optional — it's a ranking factor in its own right." },
+      { "type": "p", "text": "HANNKEY16 builds every one of these fundamentals into our SEO Optimization service, so clients aren't chasing rankings after launch — they're built in from day one." }
+    ]
+  },
+  {
+    "slug": "how-to-rank-your-website-on-google",
+    "title": "How to Rank Your Website on Google in 2026",
+    "excerpt": "A step-by-step look at what it actually takes to rank a website on Google today — from technical foundations to the content and authority signals that follow.",
+    "category": "SEO",
+    "tags": ["how to rank on Google", "SEO services", "website development"],
+    "featuredImage": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80",
+    "featuredImageAlt": "Person analyzing website ranking charts on a laptop screen",
+    "author": "HANNKEY16 Team",
+    "publishedAt": "2026-06-28",
+    "content": [
+      { "type": "p", "text": "Ranking on Google is a compounding process, not a single trick. Here's the order of operations that consistently works." },
+      { "type": "h2", "text": "Step 1: Fix the technical foundation" },
+      { "type": "p", "text": "Before content or links matter, your site needs to be crawlable and fast: a valid sitemap, correct robots.txt, clean URLs, and good Core Web Vitals." },
+      { "type": "h2", "text": "Step 2: Nail on-page fundamentals" },
+      { "type": "p", "text": "Unique titles and meta descriptions, one H1 per page, descriptive alt text on images, and a logical internal link structure all help search engines understand and trust your pages." },
+      { "type": "h2", "text": "Step 3: Add structured data" },
+      { "type": "p", "text": "JSON-LD for your Organization, WebSite, and individual pages helps Google understand your business and can unlock richer search result features." },
+      { "type": "h2", "text": "Step 4: Publish genuinely useful content" },
+      { "type": "p", "text": "A blog that answers the real questions your customers search for — like this one — builds topical authority over time and gives Google fresh reasons to index and rank your site." },
+      { "type": "h2", "text": "Step 5: Be patient and consistent" },
+      { "type": "p", "text": "SEO compounds over months, not days. Sites that keep publishing quality content and maintaining technical health steadily climb rankings for their target keywords." },
+      { "type": "p", "text": "This is exactly the process HANNKEY16 follows for its own site and for every client project — technical foundation first, then content and authority built on top." }
+    ]
+  }
+]
