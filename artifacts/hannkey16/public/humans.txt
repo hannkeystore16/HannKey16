@@ -1,0 +1,6 @@
+/* TEAM */
+Agency: HANNKEY16
+Site: https://hannkey.com
+
+/* SITE */
+Built with: React, Vite, Tailwind CSS
