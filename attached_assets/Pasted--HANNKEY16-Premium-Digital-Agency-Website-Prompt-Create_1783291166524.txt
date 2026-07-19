@@ -1,0 +1,336 @@
+# HANNKEY16 Premium Digital Agency Website Prompt
+
+Create a **modern, premium, elegant, and professional website** for **HANNKEY16**, a digital agency specializing in **Website Design, Web Development, AI Integration, SEO, UI/UX Design, and Digital Business Solutions**.
+
+The overall design should convey **trust, professionalism, innovation, and premium quality**, similar to high-end international digital agencies.
+
+---
+
+## Design Style
+
+Use a clean and luxurious design language with:
+
+* Primary Colors:
+
+  * Black `#111111`
+  * White `#FFFFFF`
+  * Royal Blue `#2563EB`
+* Modern typography using **Inter**, **Poppins**, or **Manrope**
+* Large white space
+* Soft shadows
+* Rounded cards (16–24px)
+* Smooth gradients using black, white, and blue
+* Glassmorphism only where appropriate
+* Elegant hover effects
+* Smooth scrolling animations
+* Fade-in and slide-up animations
+* Professional spacing
+* Premium iconography
+* High-end corporate appearance
+* Fully responsive layout (Desktop, Tablet, Mobile)
+
+Avoid generic templates and obvious AI-generated aesthetics. The website should look custom-designed by an experienced UI/UX designer.
+
+---
+
+# Hero Section
+
+Create a premium hero section with the headline:
+
+# **Build Better Websites, Grow Bigger Business.**
+
+Supporting description:
+
+HANNKEY16 helps businesses, SMEs, startups, companies, and personal brands establish a strong online presence through modern, fast, secure, SEO-friendly, and AI-powered websites.
+
+Primary CTA:
+
+* Get Started
+
+Secondary CTA:
+
+* Free Consultation
+
+Include subtle animated background elements.
+
+---
+
+# About HANNKEY16
+
+Introduce HANNKEY16 as a professional website development agency focused on:
+
+* Modern digital solutions
+* High-quality development
+* Innovation
+* User Experience
+* Performance
+* Security
+* Long-term support
+* Business growth
+
+---
+
+# Our Services
+
+Display premium service cards with modern icons.
+
+Services:
+
+* Professional Website Development
+* Business Landing Pages
+* Company Profile Websites
+* E-Commerce Websites
+* Custom Web Applications
+* UI/UX Design
+* SEO Optimization
+* AI Integration
+* Website Speed Optimization
+* Website Maintenance & Support
+
+Cards should include:
+
+* Icon
+* Title
+* Short Description
+* Hover Animation
+
+---
+
+# Why Choose HANNKEY16
+
+Create a clean responsive grid.
+
+Advantages:
+
+* Premium & Modern Design
+* Responsive on All Devices
+* Fast Performance
+* SEO Optimized
+* Secure Website
+* Affordable Pricing
+* Professional Support
+* Custom Development
+* Scalable Solutions
+* Latest Technology
+
+---
+
+# Portfolio
+
+Create elegant portfolio cards with premium image placeholders.
+
+Each project includes:
+
+* Image
+* Project Name
+* Category
+* Short Description
+* View Project button
+
+Example categories:
+
+* Company Profile
+* E-Commerce
+* Corporate Website
+* Landing Page
+* Web Application
+
+---
+
+# Our Process
+
+Create a modern timeline or stepper.
+
+Workflow:
+
+1. Consultation
+2. Planning
+3. Design
+4. Development
+5. Testing
+6. Launch
+7. Ongoing Support
+
+Use connecting lines and animated icons.
+
+---
+
+# Testimonials
+
+Create modern testimonial cards.
+
+Include:
+
+* Client Photo Placeholder
+* Client Name
+* Business
+* 5-Star Rating
+* Review
+
+Use a professional slider/carousel.
+
+---
+
+# Frequently Asked Questions
+
+Include questions about:
+
+* Pricing
+* Development Time
+* Revisions
+* Hosting
+* Domain
+* Website Maintenance
+* SEO
+* AI Integration
+
+Use an animated accordion.
+
+---
+
+# Contact Section
+
+Professional contact section including:
+
+* WhatsApp
+* Email
+* Business Address
+* Contact Form
+* Google Maps Placeholder
+
+Form fields:
+
+* Full Name
+* Email
+* Phone
+* Company
+* Message
+* Submit Button
+
+---
+
+# Floating Buttons
+
+Include:
+
+* Floating WhatsApp Button
+* Back To Top Button
+
+Both should have elegant animations.
+
+---
+
+# Footer
+
+Professional footer containing:
+
+* Logo
+* Navigation Links
+* Services
+* Contact Information
+* Social Media Icons
+* Copyright
+
+Company slogan:
+
+**HANNKEY16 — Build Better Websites, Grow Bigger Business.**
+
+---
+
+# Animation
+
+Use modern animations:
+
+* Fade Up
+* Fade In
+* Zoom
+* Scale Hover
+* Smooth Scroll
+* Section Reveal
+* Counter Animation
+* Floating Elements
+
+Animation duration should be subtle (300–700ms).
+
+---
+
+# Performance
+
+The website must be:
+
+* Lightweight
+* Fast Loading
+* Optimized Images
+* Lazy Loading
+* Clean Code
+* Semantic HTML
+* Accessible
+* SEO Friendly
+
+---
+
+# Technical Requirements
+
+Generate a complete production-ready project using:
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* Bootstrap 5 (optional)
+* AOS Animation (optional)
+* Font Awesome Icons
+* Google Fonts
+
+The code must be:
+
+* Well Structured
+* Modular
+* Easy to Maintain
+* Responsive
+* Cross-Browser Compatible
+
+---
+
+# SEO
+
+Include:
+
+* Meta Title
+* Meta Description
+* Open Graph Tags
+* Twitter Card
+* Canonical URL
+* Structured Data (JSON-LD)
+* Sitemap-ready Structure
+* robots.txt-ready Structure
+
+---
+
+# Deployment & Hosting Compatibility (SmarterASP.NET)
+
+The project must be fully compatible with **SmarterASP.NET** hosting.
+
+Requirements:
+
+* Ready for deployment on SmarterASP.NET shared hosting.
+* Use a clean folder structure (`assets`, `css`, `js`, `images`, `fonts`).
+* Avoid any dependencies that require Node.js, npm, Bun, Vite, Webpack, or a build process.
+* All assets must use relative paths.
+* The website must run directly after uploading files via FTP or the SmarterASP.NET File Manager.
+* Ensure compatibility with IIS (Internet Information Services).
+* Include a default landing page (`index.html`) or provide an `index.aspx` version if using ASP.NET.
+* Avoid Linux-only features.
+* JavaScript must be plain ES6 without requiring bundlers.
+* CSS should be compiled and production-ready.
+* Include a `.htaccess` alternative when needed and provide equivalent IIS `web.config` rewrite rules.
+* Make the project easy to migrate later to ASP.NET Core or other Microsoft technologies.
+* Contact forms should support PHP-independent solutions or be adaptable to ASP.NET/C# backend implementations.
+* Ensure all links, images, fonts, and assets load correctly under SmarterASP.NET hosting.
+
+---
+
+# Final Output
+
+Generate a polished, premium, enterprise-level website that feels like it was designed by a senior UI/UX designer from a top international digital agency.
+
+The result should be visually stunning, trustworthy, modern, responsive, elegant, SEO-friendly, performance-optimized, production-ready, and fully deployable on **SmarterASP.NET** without additional configuration.

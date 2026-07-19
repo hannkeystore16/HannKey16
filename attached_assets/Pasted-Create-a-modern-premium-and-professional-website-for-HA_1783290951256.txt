@@ -1,0 +1,86 @@
+Create a modern, premium, and professional website for **HANNKEY16**, a digital agency specializing in website design, web development, AI integration, and digital business solutions.
+
+The overall design should feel elegant, trustworthy, clean, and minimalistic, using a color palette of **Black (#111111), White (#FFFFFF), and Royal Blue (#2563EB)** as the primary branding colors. The layout should have generous white space, smooth scrolling animations, modern typography, rounded cards, subtle shadows, and a high-end corporate appearance. The website must be fully responsive for desktop, tablet, and mobile devices.
+
+The homepage should immediately communicate professionalism with a strong hero section featuring the headline:
+
+**Build Better Websites, Grow Bigger Business.**
+
+Add a supporting description explaining that HANNKEY16 helps businesses, SMEs, companies, and personal brands establish a strong online presence through modern, fast, secure, SEO-friendly, and AI-powered websites.
+
+Include a clear Call-to-Action button:
+
+* Get Started
+* Free Consultation
+
+Create the following sections:
+
+**About HANNKEY16**
+Introduce HANNKEY16 as a professional website development agency dedicated to delivering modern digital solutions. Emphasize quality, innovation, user experience, performance, security, and long-term client support.
+
+**Our Services**
+Display services using modern icon cards:
+
+* Professional Website Development
+* Business Landing Pages
+* Company Profile Websites
+* E-Commerce Websites
+* Custom Web Applications
+* UI/UX Design
+* SEO Optimization
+* AI Integration
+* Website Speed Optimization
+* Website Maintenance & Support
+
+**Why Choose HANNKEY16**
+Present the advantages in a clean grid layout:
+
+* Premium & Modern Design
+* Responsive on All Devices
+* Fast Performance
+* SEO Optimized
+* Secure Website
+* Affordable Pricing
+* Professional Support
+* Custom Development
+* Scalable Solutions
+* Latest Technology
+
+**Portfolio**
+Showcase several premium website projects with elegant image placeholders, project names, categories, and short descriptions.
+
+**Our Process**
+Display a professional workflow:
+
+1. Consultation
+2. Planning
+3. Design
+4. Development
+5. Testing
+6. Launch
+7. Ongoing Support
+
+**Testimonials**
+Include a clean testimonial section with modern cards showing satisfied clients and positive reviews.
+
+**Frequently Asked Questions**
+Provide common questions regarding pricing, development time, revisions, hosting, domains, maintenance, SEO, and AI integration.
+
+**Contact**
+Create a professional contact section including:
+
+* WhatsApp
+* Email
+* Business Address
+* Contact Form
+* Google Maps placeholder
+
+Add floating WhatsApp and Back-to-Top buttons.
+
+The footer should include navigation links, copyright information, social media icons, and the company slogan:
+
+**HANNKEY16 — Build Better Websites, Grow Bigger Business.**
+
+Use premium fonts such as Inter, Poppins, or Manrope.
+
+The design style should resemble a high-end international digital agency, avoiding generic templates or AI-generated aesthetics. Focus on a clean, elegant, corporate appearance with smooth animations, subtle gradients using black, white, and blue, professional spacing, and an excellent user experience. The final website should feel like it was custom-designed by an experienced UI/UX designer.

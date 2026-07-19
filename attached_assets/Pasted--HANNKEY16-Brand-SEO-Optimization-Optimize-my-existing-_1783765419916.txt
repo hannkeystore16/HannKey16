@@ -1,0 +1,179 @@
+# HANNKEY16 Brand SEO Optimization
+
+Optimize my existing website for Google Search without changing the UI, UX, layout, branding, animations, colors, or functionality.
+
+## Brand Information
+
+Brand Name: HannKey16
+
+Official Website: https://hannkey.com
+
+Business Name: HANNKEY16 Digital Agency Indonesia
+
+## SEO Goal
+
+Help Google clearly understand that:
+
+* HANNKEY16 is the official brand.
+* hannkey.com is the official website.
+* HANNKEY16 is a Digital Agency in Indonesia.
+
+Naturally optimize the website for these search queries:
+
+* HannKey16
+* hannkey
+* hannkey.com
+* HANNKEY16 Digital Agency
+* HANNKEY16 Indonesia
+* Digital Agency Indonesia
+
+Do NOT use keyword stuffing. Follow Google's SEO best practices.
+
+---
+
+## Homepage SEO
+
+Update the homepage with:
+
+Title:
+HANNKEY16 Digital Agency Indonesia | Official Website
+
+Meta Description:
+HANNKEY16 is a professional Digital Agency in Indonesia specializing in website development, AI solutions, UI/UX design, SEO optimization, branding, and modern digital solutions for businesses.
+
+Use exactly one H1:
+
+HANNKEY16 Digital Agency Indonesia
+
+Add supporting H2 sections for:
+
+* Website Development
+* AI Development
+* UI/UX Design
+* SEO Optimization
+* Mobile Applications
+* Digital Solutions
+
+---
+
+## Schema.org
+
+Add JSON-LD structured data:
+
+Organization
+
+WebSite
+
+WebPage
+
+SearchAction
+
+Service
+
+Use:
+
+Organization Name:
+HANNKEY16 Digital Agency Indonesia
+
+URL:
+https://hannkey.com
+
+Alternate Names:
+
+HANNKEY16
+
+HANNKEY
+
+hannkey.com
+
+---
+
+## Technical SEO
+
+Generate:
+
+robots.txt
+
+sitemap.xml
+
+manifest.json
+
+canonical URLs
+
+Open Graph tags
+
+Twitter Card tags
+
+favicon support
+
+browserconfig.xml
+
+humans.txt
+
+---
+
+## Internal Content
+
+Naturally mention:
+
+"HANNKEY16 Digital Agency Indonesia"
+
+"HANNKEY16"
+
+"hannkey.com"
+
+throughout the homepage, About page, Services page, and Footer where appropriate.
+
+Do not overuse keywords.
+
+---
+
+## Google Search Console
+
+Prepare the website for:
+
+Google Search Console verification
+
+Google Analytics
+
+Bing Webmaster Tools
+
+Automatic sitemap discovery
+
+---
+
+## Performance
+
+Optimize:
+
+Core Web Vitals
+
+Image optimization
+
+Lazy loading
+
+Semantic HTML
+
+Accessibility
+
+Target:
+
+SEO 100
+
+Accessibility 100
+
+Best Practices 100
+
+Performance 95+
+
+---
+
+## Final Requirement
+
+Keep the current design exactly the same.
+
+Do not modify the visual appearance.
+
+Only improve SEO, metadata, structured data, indexing readiness, accessibility, and performance according to Google's official recommendations.
+
+The website should clearly identify itself as the official website of HANNKEY16 Digital Agency Indonesia and be fully prepared for search engine indexing.
